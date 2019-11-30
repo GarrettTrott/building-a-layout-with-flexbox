@@ -1,0 +1,13 @@
+/* ================================= 
+  Media Queries
+==================================== */
+
+@media (min-width: 769px) {
+  .main-header,
+  .main-nav {
+    display: flex;
+  }
+}
+
+@media (min-width: 1025px) {
+}
